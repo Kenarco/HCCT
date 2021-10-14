@@ -2,6 +2,10 @@ h1 {
     text-align: center;
 }
 
+a {
+    padding: 10px;
+}
+
 body {
     background-image: url(/images/Clouds.jpeg);
 }
