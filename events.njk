@@ -1,0 +1,18 @@
+---
+title: Calendar of events
+layout: base.njk
+---
+
+<h1>Weekly events</h1>
+
+<p>This page will be improved as time goes on. I hope to place an actual functional calendar on this page.</p>
+<br>
+
+{% for event in events %}
+   <li>{{ event.event }} {{ event.day }} {{ event.time }} {{ event.place }}</li>
+{% endfor %}
+<style>
+   li {
+      font-size: x-large;
+   }
+</style>
