@@ -1,19 +1,25 @@
 [{
         "event": "Men of God English Bible Study",
         "day": "Wednesday",
-        "time": "9:45 am",
+        "time": "9:45 AM",
         "place": "Harry's house"
     },
     {
         "event": "Prayer meeting",
         "day": "Wednesday",
-        "time": "7:00 pm",
+        "time": "7:00 PM",
         "place": "Church"
     },
     {
         "event": "Women of Worth (WOW) Bible Study",
         "day": "Saturday",
-        "time": "3:00 pm",
+        "time": "3:00 PM",
         "place": "Ate Daisy's house"
+    },
+    {
+        "event": "Sunday Church Service",
+        "day": "Sunday",
+        "time": "1:30 PM",
+        "place": "Church"
     }
 ]
