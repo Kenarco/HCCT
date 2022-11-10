@@ -1,8 +1,8 @@
 [{
-        "event": "Men of God English Bible Study",
+        "event": "Bible Study",
         "day": "Wednesday",
-        "time": "9:45 AM",
-        "place": "Harry's house"
+        "time": "6:00 AM",
+        "place": "Ken's house"
     },
     {
         "event": "Prayer meeting",
@@ -19,7 +19,7 @@
     {
         "event": "Sunday Church Service",
         "day": "Sunday",
-        "time": "1:30 PM",
+        "time": "9:00 AM",
         "place": "Church"
     }
 ]
