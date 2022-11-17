@@ -5,6 +5,12 @@
         "place": "Ken's house"
     },
     {
+        "event": "Bible Study",
+        "day": "Friday",
+        "time": "6:00 AM",
+        "place": "Ken's house"
+    },
+    {
         "event": "Prayer meeting",
         "day": "Wednesday",
         "time": "7:00 PM",
