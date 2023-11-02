@@ -1,20 +1,21 @@
-[{
-        "event": "Bible Study",
-        "day": "Wednesday",
-        "time": "6:00 AM",
-        "place": "Ken's house"
-    },
-    {
-        "event": "Bible Study",
-        "day": "Friday",
-        "time": "6:00 AM",
-        "place": "Ken's house"
-    },
-    {
+[
+   {
         "event": "Prayer meeting",
         "day": "Wednesday",
         "time": "7:00 PM",
         "place": "Church"
+    },
+    {
+        "event": "Bible Study",
+        "day": "Friday",
+        "time":"3:00 PM",
+        "place": "Lucy's Mom's House"
+    },
+    {
+        "event": "Bible Study",
+        "day": "Saturday",
+        "time":"7:00 PM",
+        "place": "Nora Terante"
     },
     {
         "event": "Women of Worth (WOW) Bible Study",
@@ -27,5 +28,11 @@
         "day": "Sunday",
         "time": "9:00 AM",
         "place": "Church"
+    },
+    {
+        "event": "Puntana Church Service",
+        "day": "Sunday",
+        "time": "3:00 PM",
+        "place": "Puntana" 
     }
 ]
