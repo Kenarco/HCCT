@@ -1,4 +1,10 @@
 [
+    {
+        "event":"Bible Study",
+        "day":"Wednesday",
+        "time":"6:00 PM",
+        "place":"Church"
+    },
    {
         "event": "Prayer meeting",
         "day": "Wednesday",
@@ -14,7 +20,7 @@
     {
         "event": "Bible Study",
         "day": "Saturday",
-        "time":"7:00 PM",
+        "time": "6:00 PM",
         "place": "Nora Terante"
     },
     {
